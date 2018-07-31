@@ -1,6 +1,6 @@
 {
     "/start": "*Jai Jinendra* \n\nI can help you find some of the answers related to *DJSangh*. \n\nYou can control me by sending these commands: \n\n  /classes - show swadhay classes.\n  /events - show upcoming events. \n  /initiatives - show initiatives group members are associated with. \n  /improvebot - join the BotDev group to help improve it's abilities. \n  /tithi - show today's tithi",
-    "/improvebot": "Appreciate your interest in improving this Bot 👍. \nJoin [DJSanghBotDev](https://t.me/joinchat/I4W0Ow9J37gDlkn0VRRlyw) group to share your insights in improving the bot.",    
+    "/improvebot": "Appreciate your interest in improving this Bot 👍. \nJoin [DJSanghBotDev](https://t.me/joinchat/I4W0Ow9J37gDlkn0VRRlyw) group to share your insights in improving the bot.",
     "/events": [
         {
             "text": "Religious",
@@ -98,17 +98,26 @@
         }
     ],
     "weekend_classes": [
-        {
-            "text": "Sunday at Temple",
-            "callback_data": "sunday_swadhya_at_temple"
-        },
-        {
-            "text": "Sunday online",
-            "callback_data": "sunday_swadhya_online"
-        }
+        [
+            {
+                "text": "Sunday at Temple",
+                "callback_data": "sunday_swadhya_at_temple"
+            },
+            {
+                "text": "Sunday online",
+                "callback_data": "sunday_swadhya_online"
+            }
+        ],
+        [
+            {
+                "text": "Saturday at Temple",
+                "callback_data": "saturday_at_temple"
+            }
+        ]
     ],
-    "sunday_swadhya_online": "Sunday Swadhya Online class: Here are instructions to join swadhyaya: https: //sites.google.com/view/weekly-swadhyaya/home?authuser=0.\n To know more details, contact Shrish ji or Nikita ji.",
-    "sunday_swadhya_at_temple": "For Sunday Swadhya class at temple, please Contact: Parag ji or Ruchi ji for details.",
+    "sunday_swadhya_online": "Sunday Swadhya Online class: Here are instructions to join swadhyaya: https: //sites.google.com/view/weekly-swadhyaya/home?authuser=0.\n\n *Contact*: To know more details, contact Shrish ji or Nikita ji.",
+    "sunday_swadhya_at_temple": "*Sunday Swadhya Class at Temple*\n\n *Timings*: 10:15am.\n\n *Contact*: Parag ji or Ruchi ji",
+    "saturday_at_temple": "*Saturday Swadhya Class at Temple*\n\n *Timings*: 10:15am.\n\n We will be adding Arham meditation in the beginning of the class for 15-20 min.\n Please join in person for full benefit of meditation and swadhyay.\n We will be doing few exercises on letting go of our stuck emotions also from time to time.\n\n *Contact*: Charu ji.",
     "hathkargha": "To know more about Hathkargha, please Contact: Charu ji, Ruchi ji or Gourav ji for details.",
     "kindmilk": [
         {
