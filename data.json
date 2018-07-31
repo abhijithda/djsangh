@@ -78,26 +78,6 @@
     "bhakthi_contact": "To know more or to join Thursday's Bhakthi, please Contact: bhumika ji or surbhi ji.",
     "jbg_group": "*Jina Bhakthi Geete:*\n To share and/or listen to Jina Bhakthi Geete / Jain Devotional Songs, join telegram app group: https://t.me/joinchat/I4W0OxFWDFDpW4Nbhe-eAg.",
     "/classes": [
-        {
-            "text": "Weekday",
-            "callback_data": "weekday_classes"
-        },
-        {
-            "text": "Weekend",
-            "callback_data": "weekend_classes"
-        }
-    ],
-    "weekday_classes": [
-        {
-            "text": "Cha-dhal Morning Classes",
-            "callback_data": "chadhal_morning"
-        },
-        {
-            "text": "Cha-dhal Evening Classes",
-            "callback_data": "chadhal_evening"
-        }
-    ],
-    "weekend_classes": [
         [
             {
                 "text": "Sunday at Temple",
