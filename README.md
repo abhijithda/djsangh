@@ -7,10 +7,12 @@ The json data is used by [DJSanghBot](http://t.me/DJSanghBot).
 Bot supports the following commands:
 
 ```commands
+donate - send general donation to DJ Sangh.
 classes - show swadhay classes.
-events - show upcoming events
-initiatives - show initiatives group members are associated with
-improvebot - join the Bot group to help improve it's abilities
+events - show upcoming events. 
+initiatives - show initiatives group members are associated with. 
+learn - Learn about Jainism. 
 tithi - show today's tithi
+improvebot - join the BotDev group to help improve it's abilities. 
 ```
 

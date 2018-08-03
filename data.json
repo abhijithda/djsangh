@@ -21,7 +21,7 @@
         ],
         [
             {
-                "text": "≤≤Back",
+                "text": "« Back",
                 "callback_data": "/events"
             }
         ]
@@ -35,7 +35,7 @@
         ],
         [
             {
-                "text": "≤≤Back",
+                "text": "« Back",
                 "callback_data": "/events"
             }
         ]
@@ -50,7 +50,7 @@
         ],
         [
             {
-                "text": "≤≤Back",
+                "text": "« Back",
                 "callback_data": "religious"
             }
         ]
@@ -142,7 +142,7 @@
         ],
         [
             {
-                "text": "≤≤Back",
+                "text": "« Back",
                 "callback_data": "/initiatives"
             }
         ]
@@ -192,7 +192,7 @@
         ],
         [
             {
-                "text": "≤≤Back",
+                "text": "« Back",
                 "callback_data": "/initiatives"
             }
         ]
