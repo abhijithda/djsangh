@@ -13,16 +13,47 @@
         }
     ],
     "religious": [
-        {
-            "text": "Ashtanika Parva",
-            "callback_data": "ashtanika"
-        }
+        [
+            {
+                "text": "Ashtanika Parva",
+                "callback_data": "ashtanika"
+            }
+        ],
+        [
+            {
+                "text": "≤≤Back",
+                "callback_data": "/events"
+            }
+        ]
     ],
+    "social": [
+        [
+            {
+                "text": "JCNC Anniversary",
+                "callback_data": "jcnc_anniversary"
+            }
+        ],
+        [
+            {
+                "text": "≤≤Back",
+                "callback_data": "/events"
+            }
+        ]
+    ],
+    "jcnc_anniversary": "*JCNC 18th Anniversary celebrations*: Aug 3rd to 5th. Aug 3,2018 \n\n",
     "ashtanika": [
-        {
-            "text": "Date & Pooja Details",
-            "callback_data": "Ashtanika Details"
-        }
+        [
+            {
+                "text": "Date & Pooja Details",
+                "callback_data": "Ashtanika Details"
+            }
+        ],
+        [
+            {
+                "text": "≤≤Back",
+                "callback_data": "religious"
+            }
+        ]
     ],
     "/learn": [
         {
@@ -47,7 +78,7 @@
             {
                 "text": "Kundalvar Ruchikar Dweep",
                 "callback_data": "kundalvar_ruchikar_dweep"
-            }            
+            }
         ],
         [
             {
@@ -108,6 +139,12 @@
                 "text": "Jina Bhakthi Geeta",
                 "callback_data": "jbg_group"
             }
+        ],
+        [
+            {
+                "text": "≤≤Back",
+                "callback_data": "/initiatives"
+            }
         ]
     ],
     "bhakthi_about": "Bhakthi Timings:\n   Every (almost every!) Thursdays' 8 PM to 9 PM.",
@@ -143,14 +180,22 @@
     "saturday_at_temple": "*Saturday Swadhya Class at Temple*\n\n *Timings*: 10:15am (starting Aug 11, 2018).\n\n We will be adding Arham meditation in the beginning of the class for 15-20 min.\n Please join in person for full benefit of meditation and swadhyay.\n We will be doing few exercises on letting go of our stuck emotions also from time to time.\n\n *Contact*: Charu ji.",
     "hathkargha": "To know more about Hathkargha, please Contact: Charu ji, Ruchi ji or Gourav ji for details.",
     "kindmilk": [
-        {
-            "text": "About",
-            "callback_data": "kindmilk_about"
-        },
-        {
-            "text": "Contact",
-            "callback_data": "kindmilk_contact"
-        }
+        [
+            {
+                "text": "About",
+                "callback_data": "kindmilk_about"
+            },
+            {
+                "text": "Contact",
+                "callback_data": "kindmilk_contact"
+            }
+        ],
+        [
+            {
+                "text": "≤≤Back",
+                "callback_data": "/initiatives"
+            }
+        ]
     ],
     "kindmilk_contact": "To know more about Kind Milk project, please Contact: parag ji or shaily ji for details.",
     "stories": [
