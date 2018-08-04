@@ -329,6 +329,12 @@
                 "text": "Sponsor Stories",
                 "callback_data": "stories_sponsor"
             }
+        ],
+        [
+            {
+                "text": "« Back",
+                "callback_data": "/initiatives"
+            }
         ]
     ],
     "stories_kids_animated": "[Kids section - Know Jainism through Stories - Playlist](https://goo.gl/EsGtpb).",
