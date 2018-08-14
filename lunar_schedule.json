@@ -4,7 +4,7 @@
             "Info about Shukla & Krishna paksha order in a month": "https://www.cs.colostate.edu/~malaiya/calendar.html"
         }
     ],
-    "Chaitra-Sud-5": [
+    "Chaitra-Shukla-5": [
         {
             "Title": "Shri Ajitnatha Swamy Moksha Kalyana",
             "Description": ""
@@ -18,7 +18,7 @@
             "Description": ""
         }
     ],
-    "Chaitra-Sud-9": [
+    "Chaitra-Shukla-9": [
         {
             "Title": "Shri Sumatinatha Swami Moksha Kalyana",
             "Description": ""
@@ -28,7 +28,7 @@
             "Description": ""
         }
     ],
-    "Chaitra-Sud-11": [
+    "Chaitra-Shukla-11": [
         {
             "Title": "Shri Padmaprabhu Swami Jnaana Kalyana",
             "Description": ""
@@ -38,25 +38,25 @@
             "Description": ""
         }
     ],
-    "Chaitra-Sud-13": [
+    "Chaitra-Shukla-13": [
         {
-            "Title": "Shri Maghaveera Swami Janma Kalyana",
+            "Title": "Shri Mahaveera Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Chaitra-Vad-1": [
+    "Chaitra-Krishna-1": [
         {
             "Title": "Shri Kunthunatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Chaitra-Vad-2": [
+    "Chaitra-Krishna-2": [
         {
             "Title": "Shri Shitalnath Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Chaitra-Vad-5": [
+    "Chaitra-Krishna-5": [
         {
             "Title": "Shri Kunthunatha Swami Diksha Kalyana",
             "Description": ""
@@ -66,25 +66,25 @@
             "Description": ""
         }
     ],
-    "Chaitra-Vad-6": [
+    "Chaitra-Krishna-6": [
         {
             "Title": "Shri Shitalnath Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Chaitra-Vad-10": [
+    "Chaitra-Krishna-10": [
         {
             "Title": "Shri Naminatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Chaitra-Vad-13": [
+    "Chaitra-Krishna-13": [
         {
             "Title": "Shri Anantnatha Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Chaitra-Vad-14": [
+    "Chaitra-Krishna-14": [
         {
             "Title": "Shri Anantnatha Swami Diksha Kalyana",
             "Description": ""
@@ -98,19 +98,19 @@
             "Description": ""
         }
     ],
-    "Vaishakha-Sud-4": [
+    "Vaishakha-Shukla-4": [
         {
             "Title": "Shri Abhinandana Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Sud-7": [
+    "Vaishakha-Shukla-7": [
         {
             "Title": "Shri Dharmanatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Sud-8": [
+    "Vaishakha-Shukla-8": [
         {
             "Title": "Shri Abhinandana Swami Moksha Kalyana",
             "Description": ""
@@ -120,49 +120,49 @@
             "Description": ""
         }
     ],
-    "Vaishakha-Sud-9": [
+    "Vaishakha-Shukla-9": [
         {
             "Title": "Shri Sumatinatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Sud-10": [
+    "Vaishakha-Shukla-10": [
         {
-            "Title": "Shri Maghaveera Swami Jnaana Kalyana",
+            "Title": "Shri Mahaveera Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Sud-12": [
+    "Vaishakha-Shukla-12": [
         {
             "Title": "Shri Vimalnatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Sud-13": [
+    "Vaishakha-Shukla-13": [
         {
             "Title": "Shri Ajitnatha Swamy Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Vad-6": [
+    "Vaishakha-Krishna-6": [
         {
             "Title": "Shri Shreyansnath Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Vad-8": [
+    "Vaishakha-Krishna-8": [
         {
             "Title": "Shri Munisuvrata Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Vad-9": [
+    "Vaishakha-Krishna-9": [
         {
             "Title": "Shri Munisuvrata Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishakha-Vad-13": [
+    "Vaishakha-Krishna-13": [
         {
             "Title": "Shri Shantinatha Swami Janma Kalyana",
             "Description": ""
@@ -172,127 +172,127 @@
             "Description": ""
         }
     ],
-    "Vaishakha-Vad-14": [
+    "Vaishakha-Krishna-14": [
         {
             "Title": "Shri Shantinatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Sud-5": [
+    "Jyeshta-Shukla-5": [
         {
             "Title": "Shri Dharmanatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Sud-9": [
+    "Jyeshta-Shukla-9": [
         {
             "Title": "Shri Vasupujya Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Sud-12": [
+    "Jyeshta-Shukla-12": [
         {
             "Title": "Shri Suparshvanath Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Sud-13": [
+    "Jyeshta-Shukla-13": [
         {
             "Title": "Shri Suparshvanath Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Vad-4": [
+    "Jyeshta-Krishna-4": [
         {
             "Title": "Shri Aadinatha Swamy Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Vad-7": [
+    "Jyeshta-Krishna-7": [
         {
             "Title": "Shri Vimalnatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Vad-9": [
+    "Jyeshta-Krishna-9": [
         {
             "Title": "Shri Naminatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Asadha-Sud-6": [
+    "Asadha-Shukla-6": [
         {
-            "Title": "Shri Maghaveera Swami Garbha Kalyana",
+            "Title": "Shri Mahaveera Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Ashadha-Sud-8": [
+    "Ashadha-Shukla-8": [
         {
             "Title": "Shri Neminatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Ashadha-Sud-14": [
+    "Ashadha-Shukla-14": [
         {
             "Title": "Shri Vasupujya Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Ashadha-Vad-3": [
+    "Ashadha-Krishna-3": [
         {
             "Title": "Shri Shreyansnath Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Ashadha-Vad-7": [
+    "Ashadha-Krishna-7": [
         {
             "Title": "Shri Anantnatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Ashadha-Vad-8": [
+    "Ashadha-Krishna-8": [
         {
             "Title": "Shri Naminatha Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Ashadha-Vad-9": [
+    "Ashadha-Krishna-9": [
         {
             "Title": "Shri Kunthunatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Shravana-Sud-2": [
+    "Shravana-Shukla-2": [
         {
             "Title": "Shri Sumatinatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Shravana-Sud-5": [
+    "Shravana-Shukla-5": [
         {
             "Title": "Shri Neminatha Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Shravana-Sud-6": [
+    "Shravana-Shukla-6": [
         {
             "Title": "Shri Neminatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Shravana-Sud-8": [
+    "Shravana-Shukla-8": [
         {
             "Title": "Shri Parsvanatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Shravana-Sud-15": [
+    "Shravana-Shukla-15": [
         {
             "Title": "Shri Munisuvrata Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Shravana-Vad-7": [
+    "Shravana-Krishna-7": [
         {
             "Title": "Shri Chandraprabhu Swami Moksha Kalyana",
             "Description": ""
@@ -302,43 +302,43 @@
             "Description": ""
         }
     ],
-    "Shravana-Vad-8": [
+    "Shravana-Krishna-8": [
         {
             "Title": "Shri Suparshvanath Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Shravana-Vad-12": [
+    "Shravana-Krishna-12": [
         {
             "Title": "Shri Munisuvrata Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Bhadarva-Sud-9": [
+    "Bhadrapada-Shukla-9": [
         {
             "Title": "Shri Pushpadanta Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Bhadarva-Vad-Amaas": [
+    "Bhadrapada-Krishna-Amaas": [
         {
             "Title": "Shri Neminatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Asho-Sud-15": [
+    "Asho-Shukla-15": [
         {
             "Title": "Shri Naminatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Asho-Vad-5": [
+    "Asho-Krishna-5": [
         {
             "Title": "Shri Sambhavnatha Swamy Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Asho-Vad-12": [
+    "Asho-Krishna-12": [
         {
             "Title": "Shri Padmaprabhu Swami Janma Kalyana",
             "Description": ""
@@ -348,49 +348,49 @@
             "Description": ""
         }
     ],
-    "Asho-Vad-13": [
+    "Asho-Krishna-13": [
         {
             "Title": "Shri Padmaprabhu Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Asho-Vad-Amaas": [
+    "Asho-Krishna-Amaas": [
         {
-            "Title": "Shri Maghaveera Swami Moksha Kalyana",
+            "Title": "Shri Mahaveera Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Karthika-Sud-3": [
+    "Karthika-Shukla-3": [
         {
             "Title": "Shri Pushpadanta Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Karthika-Sud-12": [
+    "Karthika-Shukla-12": [
         {
             "Title": "Shri Arnatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Karthika-Vad-5": [
+    "Karthika-Krishna-5": [
         {
             "Title": "Shri Pushpadanta Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Karthika-Vad-6": [
+    "Karthika-Krishna-6": [
         {
             "Title": "Shri Pushpadanta Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Karthika-Vad-10": [
+    "Karthika-Krishna-10": [
         {
-            "Title": "Shri Maghaveera Swami Diksha Kalyana",
+            "Title": "Shri Mahaveera Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magsar-Sud-10": [
+    "Magsar-Shukla-10": [
         {
             "Title": "Shri Arnatha Swami Janma Kalyana",
             "Description": ""
@@ -400,7 +400,7 @@
             "Description": ""
         }
     ],
-    "Magsar-Sud-11": [
+    "Magsar-Shukla-11": [
         {
             "Title": "Shri Arnatha Swami Diksha Kalyana",
             "Description": ""
@@ -422,91 +422,91 @@
             "Description": ""
         }
     ],
-    "Magsar-Sud-14": [
+    "Magsar-Shukla-14": [
         {
             "Title": "Shri Sambhavnatha Swamy Janma Kalyana",
             "Description": ""
         }
     ],
-    "Magasar-Sud-15": [
+    "Magasar-Shukla-15": [
         {
             "Title": "Shri Sambhavnatha Swamy Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magsar-Vad-10": [
+    "Magsar-Krishna-10": [
         {
             "Title": "Shri Parsvanatha Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Magsar-Vad-11": [
+    "Magsar-Krishna-11": [
         {
             "Title": "Shri Parsvanatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magasar-Vad-12": [
+    "Magasar-Krishna-12": [
         {
             "Title": "Shri Chandraprabhu Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Magasar-Vad-13": [
+    "Magasar-Krishna-13": [
         {
             "Title": "Shri Chandraprabhu Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magasar-Vad-14": [
+    "Magasar-Krishna-14": [
         {
             "Title": "Shri Shitalnath Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Sud-6": [
+    "Posh-Shukla-6": [
         {
             "Title": "Shri Vimalnatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Sud-15": [
+    "Posh-Shukla-15": [
         {
             "Title": "Shri Dharmanatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Sud-9": [
+    "Posh-Shukla-9": [
         {
             "Title": "Shri Shantinatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Sud-11": [
+    "Posh-Shukla-11": [
         {
             "Title": "Shri Ajitnatha Swamy Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Sud-14": [
+    "Posh-Shukla-14": [
         {
             "Title": "Shri Abhinandana Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Vad-6": [
+    "Posh-Krishna-6": [
         {
             "Title": "Shri Padmaprabhu Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Vad-12": [
+    "Posh-Krishna-12": [
         {
             "Title": "Shri Shitalnath Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Posh-Vad-13": [
+    "Posh-Krishna-13": [
         {
             "Title": "Shri Aadinatha Swamy Moksha Kalyana",
             "Description": ""
@@ -516,13 +516,13 @@
             "Description": ""
         }
     ],
-    "Posh-Vad-Amaas": [
+    "Posh-Krishna-Amaas": [
         {
             "Title": "Shri Shreyansnath Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Sud-2": [
+    "Magha-Shukla-2": [
         {
             "Title": "Shri Abhinandana Swami Janma Kalyana",
             "Description": ""
@@ -536,7 +536,7 @@
             "Description": ""
         }
     ],
-    "Magha-Sud-3": [
+    "Magha-Shukla-3": [
         {
             "Title": "Shri Vimalnatha Swami Janma Kalyana",
             "Description": ""
@@ -546,37 +546,37 @@
             "Description": ""
         }
     ],
-    "Magha-Sud-4": [
+    "Magha-Shukla-4": [
         {
             "Title": "Shri Vimalnatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Sud-8": [
+    "Magha-Shukla-8": [
         {
             "Title": "Shri Ajitnatha Swamy Janma Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Sud-9": [
+    "Magha-Shukla-9": [
         {
             "Title": "Shri Ajitnatha Swamy Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Sud-12": [
+    "Magha-Shukla-12": [
         {
             "Title": "Shri Dharmanatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Vad-6": [
+    "Magha-Krishna-6": [
         {
             "Title": "Shri Suparshvanath Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Vad-7": [
+    "Magha-Krishna-7": [
         {
             "Title": "Shri Suparshvanath Swami Moksha Kalyana",
             "Description": ""
@@ -586,55 +586,55 @@
             "Description": ""
         }
     ],
-    "Magha-Vad-9": [
+    "Magha-Krishna-9": [
         {
             "Title": "Shri Pushpadanta Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Vad-11": [
+    "Magha-Krishna-11": [
         {
             "Title": "Shri Aadinatha Swamy Jnaana Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Vad-12": [
+    "Magha-Krishna-12": [
         {
             "Title": "Shri Shreyansnath Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Vad-13": [
+    "Magha-Krishna-13": [
         {
             "Title": "Shri Shreyansnath Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Vad-14": [
+    "Magha-Krishna-14": [
         {
             "Title": "Shri Vasupujya Swami Janma Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Vad-Amaas": [
+    "Magha-Krishna-Amaas": [
         {
             "Title": "Shri Vasupujya Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Phalguna-Sud-2": [
+    "Phalguna-Shukla-2": [
         {
             "Title": "Shri Arnatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Phalguna-Sud-4": [
+    "Phalguna-Shukla-4": [
         {
             "Title": "Shri Mallinatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Phalguna-Sud-12": [
+    "Phalguna-Shukla-12": [
         {
             "Title": "Shri Mallinatha Swami Moksha Kalyana",
             "Description": ""
@@ -644,13 +644,13 @@
             "Description": ""
         }
     ],
-    "Phalguna-Sud-8": [
+    "Phalguna-Shukla-8": [
         {
             "Title": "Shri Sambhavnatha Swamy Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Phalguna-Vad-4": [
+    "Phalguna-Krishna-4": [
         {
             "Title": "Shri Parsvanatha Swami Garbha Kalyana",
             "Description": ""
@@ -660,13 +660,13 @@
             "Description": ""
         }
     ],
-    "Phalguna-Vad-5": [
+    "Phalguna-Krishna-5": [
         {
             "Title": "Shri Chandraprabhu Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Phalguna-Vad-8": [
+    "Phalguna-Krishna-8": [
         {
             "Title": "Shri Aadinatha Swamy Janma Kalyana",
             "Description": ""
