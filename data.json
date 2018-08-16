@@ -43,6 +43,12 @@
         ],
         [
             {
+                "text": "Dasha Lakshana Parva",
+                "callback_data": "dasha lakshana"
+            }
+        ],
+        [
+            {
                 "text": "« Back",
                 "callback_data": "/events"
             }
@@ -82,6 +88,20 @@
             {
                 "text": "Date & Pooja Details",
                 "callback_data": "Ashtanika Details"
+            }
+        ],
+        [
+            {
+                "text": "« Back",
+                "callback_data": "religious"
+            }
+        ]
+    ],
+    "dasha lakshana": [
+        [
+            {
+                "text": "2018 Dasa Lakshana from Sep 14 to Sep 23, 2018. \n\nThe plan is to have some religious cultural activities in the evenings and weekends during Dasa Lakshana.",
+                "callback_data": "dasha lakshana"
             }
         ],
         [
