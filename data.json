@@ -13,6 +13,12 @@
         "  /learn - Learn about Jainism.",
         "  /tithi - show today's tithi"
     ],
+    "/welcome": [
+        "Welcome to the *DJ Sangh* group.",
+        "This group is for social and religious talks! I can help find some answers, and [you can talk to me directly by clicking here](https://t.me/DJSanghBot)!",
+        "",
+        "_PS> Notifications are muted. To unmute, click on the group name, and press unmute button or turn on notifications_."
+    ],
     "/improvebot": [
         "Appreciate your interest in improving this Bot 👍.",
         "Join [DJSanghBotDev](https://t.me/joinchat/I4W0Ow9J37gDlkn0VRRlyw) group to share your insights in improving the bot."
