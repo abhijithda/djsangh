@@ -14,8 +14,9 @@
         "  /tithi - show today's tithi"
     ],
     "/welcome": [
-        "Welcome to the *DJ Sangh* group.",
-        "This group is for social and religious talks! I can help find some answers, and [you can talk to me directly by clicking here](https://t.me/DJSanghBot)!",
+        "Welcome to the *DJ Sangh*.",
+        "A community for followers of Digambar Jains in Northern California.",
+        "Here you can discuss about Digambar Jain related social or religious topics! and I can help find some answers. [You can talk to me directly by clicking here](https://t.me/DJSanghBot)!",
         "",
         "_PS> Notifications are muted. To unmute, click on the group name, and press unmute button or turn on notifications_."
     ],
