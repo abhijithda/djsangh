@@ -5,6 +5,18 @@
             "Panchanga names are based on": "http://panchangam.org/"
         }
     ],
+    "*-*-8": [
+        {
+            "Title": "Ashtami",
+            "Description": ""
+        }
+    ],
+    "*-*-14": [
+        {
+            "Title": "Chaturdashi",
+            "Description": ""
+        }
+    ],
     "Chaitra-Shukla-5": [
         {
             "Title": "Shri Ajitnatha Swamy Moksha Kalyana",
@@ -94,6 +106,16 @@
     "Chaitra-Krishna-8": [
         {
             "Title": "Ashtami",
+            "Description": ""
+        }
+    ],
+    "Chaitra-Krishna-9": [
+        {
+            "Title": "Shri Aadinatha Swamy Janma Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Aadinatha Swamy Diksha Kalyana",
             "Description": ""
         }
     ],
@@ -249,12 +271,6 @@
             "Description": ""
         }
     ],
-    "Jyeshta-Krishna-4": [
-        {
-            "Title": "Shri Aadinatha Swamy Garbha Kalyana",
-            "Description": ""
-        }
-    ],
     "Jyeshta-Krishna-7": [
         {
             "Title": "Shri Vimalnatha Swami Moksha Kalyana",
@@ -282,6 +298,12 @@
     "Ashadha-Shukla-14": [
         {
             "Title": "Shri Vasupujya Swami Moksha Kalyana",
+            "Description": ""
+        }
+    ],
+    "Ashadha-Krishna-2": [
+        {
+            "Title": "Shri Aadinatha Swamy Garbha Kalyana",
             "Description": ""
         }
     ],
@@ -571,10 +593,6 @@
     ],
     "Paush-Krishna-13": [
         {
-            "Title": "Shri Aadinatha Swamy Moksha Kalyana",
-            "Description": ""
-        },
-        {
             "Title": "Shri Shitalnath Swami Diksha Kalyana",
             "Description": ""
         }
@@ -661,12 +679,6 @@
             "Description": ""
         }
     ],
-    "Magha-Krishna-11": [
-        {
-            "Title": "Shri Aadinatha Swamy Jnaana Kalyana",
-            "Description": ""
-        }
-    ],
     "Magha-Krishna-12": [
         {
             "Title": "Shri Shreyansnath Swami Janma Kalyana",
@@ -682,6 +694,10 @@
     "Magha-Krishna-14": [
         {
             "Title": "Chaturdashi",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Aadinatha Swamy Moksha Kalyana",
             "Description": ""
         },
         {
@@ -739,13 +755,11 @@
         {
             "Title": "Ashtami",
             "Description": ""
-        },
+        }
+    ],
+    "Phalguna-Krishna-11": [
         {
-            "Title": "Shri Aadinatha Swamy Janma Kalyana",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Aadinatha Swamy Diksha Kalyana",
+            "Title": "Shri Aadinatha Swamy Jnaana Kalyana",
             "Description": ""
         }
     ],
