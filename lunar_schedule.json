@@ -342,6 +342,12 @@
             "Description": ""
         }
     ],
+    "Bhadrapada-Shukla-3": [
+        {
+            "Title": "Roth Teej Vrat",
+            "Description": "Details about this vrat could be found in /initiatives -> `Stories` -> `Vrat related stories`"
+        }
+    ],
     "Bhadrapada-Shukla-5": [
         {
             "Title": "Dasha Lakshana Parva",
@@ -729,7 +735,6 @@
             "Title": "Shri Vasupujya Swami Diksha Kalyana",
             "Description": ""
         }
-
     ],
     "last": [
         {}
