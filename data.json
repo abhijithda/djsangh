@@ -122,10 +122,18 @@
         ]
     ],
     "/learn": [
-        {
-            "text": "Akrutima Jinalaya",
-            "callback_data": "akrutima_jinalaya"
-        }
+        [
+            {
+                "text": "Akrutima Jinalaya",
+                "callback_data": "akrutima_jinalaya"
+            }
+        ],
+        [
+            {
+                "text": "Vrat",
+                "callback_data": "vrat_related_stories"
+            }
+        ]
     ],
     "akrutima_jinalaya": [
         [
@@ -394,17 +402,21 @@
     "vrat_related_stories": [
         [
             {
-                "text": "Mukuta Saptami Vrat Story",
+                "text": "Mukuta Saptami",
                 "callback_data": "story_mukuta_saptami_vrat"
             },
             {
-                "text": "Roth Teej Vrat Story",
+                "text": "Roth Teej",
                 "callback_data": "story_roth_teej_vrat"
             }
         ],
         [
             {
-                "text": "« Back",
+                "text": "« Back (learn)",
+                "callback_data": "/learn"
+            },
+            {
+                "text": "« Back (stories)",
                 "callback_data": "stories"
             }
         ]
@@ -423,35 +435,39 @@
     "story_roth_teej_vrat": [
         [
             {
-                "text": "Roth Teej Vrat Story Part 1",
+                "text": "pg.1",
                 "callback_data": "story_roth_teej_vrat1"
             },
             {
-                "text": "Roth Teej Vrat Story Part 2",
+                "text": "pg.2",
                 "callback_data": "story_roth_teej_vrat2"
             },
             {
-                "text": "Roth Teej Vrat Story Part 3",
+                "text": "pg.3",
                 "callback_data": "story_roth_teej_vrat3"
             }
         ],
         [
             {
-                "text": "Roth Teej Vrat Story Part 4",
+                "text": "pg.4",
                 "callback_data": "story_roth_teej_vrat4"
             },
             {
-                "text": "Roth Teej Vrat Story Part 5",
+                "text": "pg.5",
                 "callback_data": "story_roth_teej_vrat5"
             },
             {
-                "text": "Roth Teej Vrat Story Part 6",
+                "text": "pg.6",
                 "callback_data": "story_roth_teej_vrat6"
             }
         ],
         [
             {
-                "text": "« Back",
+                "text": "« Back (learn)",
+                "callback_data": "/learn"
+            },
+            {
+                "text": "« Back (stories)",
                 "callback_data": "stories"
             }
         ]
