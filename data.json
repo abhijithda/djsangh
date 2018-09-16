@@ -16,9 +16,11 @@
     "/welcome": [
         "Welcome to the *DJ Sangh*.",
         "A community for followers of Digambar Jains in Northern California.",
-        "Here you can discuss about Digambar Jain related social or religious topics! and I can help find some answers. [You can talk to me directly by clicking here](https://t.me/DJSanghBot)!",
+        "Here you can discuss about Digambar Jain related social or religious topics!",
         "",
-        "_PS> Notifications are muted. To unmute, click on the group name, and press unmute button or turn on notifications_."
+        "I can help find some answers. [You can talk to me directly by clicking here](https://t.me/DJSanghBot) or by typing `/` and selecting commands!",
+        "",
+        "_PS> Group notifications may be muted for you! To unmute group notifications, click on the group name, and press unmute button or turn on notifications_."
     ],
     "/improvebot": [
         "Appreciate your interest in improving this Bot 👍.",
