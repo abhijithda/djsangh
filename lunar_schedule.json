@@ -18,13 +18,21 @@
             "Description": ""
         }
     ],
+    "Chaitra-Shukla-1": [
+        {
+            "Title": "Shri Mallinatha Swami Garbha Kalyana",
+            "Description": ""
+        }
+    ],
+    "Chaitra-Shukla-3": [
+        {
+            "Title": "Shri Kunthunatha Swami Jnaana Kalyana",
+            "Description": ""
+        }
+    ],
     "Chaitra-Shukla-5": [
         {
             "Title": "Shri Ajitanatha Swamy Moksha Kalyana",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Anantnatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
@@ -60,12 +68,6 @@
             "Description": ""
         }
     ],
-    "Chaitra-Krishna-1": [
-        {
-            "Title": "Shri Kunthunatha Swami Moksha Kalyana",
-            "Description": ""
-        }
-    ],
     "Chaitra-Krishna-4": [
         {
             "Title": "Shri Parshwanatha Swami Jnaana Kalyana",
@@ -75,14 +77,6 @@
     "Chaitra-Krishna-5": [
         {
             "Title": "Shri Chandraprabhu Swami Garbha Kalyana",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Kunthunatha Swami Diksha Kalyana",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Kunthunatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
@@ -102,33 +96,31 @@
             "Description": ""
         }
     ],
-    "Chaitra-Krishna-10": [
+    "Chaitra-Krishna-15": [
         {
-            "Title": "Shri Naminatha Swami Moksha Kalyana",
+            "Title": "Shri Anantanatha Swami Jnaana Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Anantanatha Swami Moksha Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Aranatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Chaitra-Krishna-13": [
-        {
-            "Title": "Shri Anantnatha Swami Janma Kalyana",
-            "Description": ""
-        }
-    ],
-    "Chaitra-Krishna-14": [
-        {
-            "Title": "Chaturdashi",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Anantnatha Swami Diksha Kalyana",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Anantnatha Swami Jnaana Kalyana",
-            "Description": ""
-        },
+    "Vaishakha-Shukla-1": [
         {
             "Title": "Shri Kunthunatha Swami Janma Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Kunthunatha Swami Diksha Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Kunthunatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
@@ -139,12 +131,6 @@
         },
         {
             "Title": "Shri Abhinandana Swami Moksha Kalyana",
-            "Description": ""
-        }
-    ],
-    "Vaishakha-Shukla-7": [
-        {
-            "Title": "Shri Dharmanatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
@@ -166,16 +152,16 @@
             "Description": ""
         }
     ],
-    "Vaishakha-Shukla-12": [
+    "Vaishakha-Shukla-13": [
         {
-            "Title": "Shri Vimalnatha Swami Garbha Kalyana",
+            "Title": "Shri Dharmanatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Vaishaka-Krishna-4": [
+    "Vaishaka-Krishna-2": [
         {
             "Title": "Shri Parshwanatha Swami Garbha Kalyana",
-            "Description": "http://hombujapadmavati.org/articles/lord-parshwanath/"
+            "Description": ""
         }
     ],
     "Vaishakha-Krishna-9": [
@@ -194,29 +180,9 @@
             "Description": ""
         }
     ],
-    "Vaishakha-Krishna-13": [
-        {
-            "Title": "Shri Shantinatha Swami Janma Kalyana",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Shantinatha Swami Moksha Kalyana",
-            "Description": ""
-        }
-    ],
     "Vaishakha-Krishna-14": [
         {
-            "Title": "Chaturdashi",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Shantinatha Swami Diksha Kalyana",
-            "Description": ""
-        }
-    ],
-    "Jyeshta-Shukla-5": [
-        {
-            "Title": "Shri Dharmanatha Swami Moksha Kalyana",
+            "Title": "Shri Naminatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
@@ -230,21 +196,45 @@
             "Description": ""
         }
     ],
+    "Jyeshta-Krishna-4": [
+        {
+            "Title": "Shri Dharmanatha Swami Moksha Kalyana",
+            "Description": ""
+        }
+    ],
     "Jyeshta-Krishna-6": [
         {
             "Title": "Shri Shreyansanath Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Krishna-7": [
+    "Jyeshta-Krishna-10": [
         {
-            "Title": "Shri Vimalnatha Swami Moksha Kalyana",
+            "Title": "Shri Vimalanatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Jyeshta-Krishna-9": [
+    "Jyeshta-Krishna-12": [
         {
-            "Title": "Shri Naminatha Swami Diksha Kalyana",
+            "Title": "Shri Anantanatha Swami Janma Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Anantanatha Swami Diksha Kalyana",
+            "Description": ""
+        }
+    ],
+    "Jyeshta-Krishna-14": [
+        {
+            "Title": "Shri Shantinatha Swami Janma Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Shantinatha Swami Diksha Kalyana",
+            "Description": ""
+        },
+        {
+            "Title": "Shri Shantinatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
@@ -260,7 +250,7 @@
             "Description": ""
         }
     ],
-    "Ashadha-Shukla-8": [
+    "Ashadha-Shukla-7": [
         {
             "Title": "Shri Neminatha Swami Moksha Kalyana",
             "Description": ""
@@ -278,25 +268,19 @@
             "Description": ""
         }
     ],
-    "Ashadha-Krishna-7": [
+    "Ashadha-Krishna-8": [
         {
-            "Title": "Shri Anantnatha Swami Garbha Kalyana",
+            "Title": "Shri Vimalanatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
-    "Ashadha-Krishna-8": [
-        {
-            "Title": "Ashtami",
-            "Description": ""
-        },
+    "Ashadha-Krishna-10": [
         {
             "Title": "Shri Naminatha Swami Janma Kalyana",
             "Description": ""
-        }
-    ],
-    "Ashadha-Krishna-9": [
+        },
         {
-            "Title": "Shri Kunthunatha Swami Garbha Kalyana",
+            "Title": "Shri Naminatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
@@ -306,13 +290,11 @@
             "Description": ""
         }
     ],
-    "Shravana-Shukla-5": [
+    "Shravana-Shukla-6": [
         {
             "Title": "Shri Neminatha Swami Janma Kalyana",
             "Description": ""
-        }
-    ],
-    "Shravana-Shukla-6": [
+        },
         {
             "Title": "Shri Neminatha Swami Diksha Kalyana",
             "Description": ""
@@ -339,6 +321,12 @@
     "Shravana-Krishna-8": [
         {
             "Title": "Ashtami",
+            "Description": ""
+        }
+    ],
+    "Shravana-Krishna-10": [
+        {
+            "Title": "Shri Kunthunatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
@@ -396,21 +384,9 @@
             "Description": ""
         }
     ],
-    "Ashwin-Shukla-15": [
+    "Ashwin-Krishna-2": [
         {
             "Title": "Shri Naminatha Swami Garbha Kalyana",
-            "Description": ""
-        }
-    ],
-    "Ashwin-Krishna-12": [
-        {
-            "Title": "Shri Neminatha Swami Garbha Kalyana",
-            "Description": ""
-        }
-    ],
-    "Ashwin-Krishna-15": [
-        {
-            "Title": "Shri Mahaveera Swami Moksha Kalyana",
             "Description": ""
         }
     ],
@@ -420,9 +396,15 @@
             "Description": ""
         }
     ],
+    "Kartik-Shukla-6": [
+        {
+            "Title": "Shri Neminatha Swami Garbha Kalyana",
+            "Description": ""
+        }
+    ],
     "Kartik-Shukla-12": [
         {
-            "Title": "Shri Arnatha Swami Jnaana Kalyana",
+            "Title": "Shri Aranatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
@@ -432,15 +414,15 @@
             "Description": ""
         }
     ],
-    "Kartik-Krishna-4": [
+    "Kartik-Krishna-1": [
         {
-            "Title": "Shri Sambhavanatha Swamy Jnaana Kalyana",
+            "Title": "Shri Anantanatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
-    "Kartik-Krishna-10": [
+    "Kartik-Krishna-4": [
         {
-            "Title": "Shri Mahaveera Swami Diksha Kalyana",
+            "Title": "Shri Sambhavanatha Swamy Jnaana Kalyana",
             "Description": ""
         }
     ],
@@ -451,6 +433,12 @@
         },
         {
             "Title": "Shri Padmaprabhu Swami Diksha Kalyana",
+            "Description": ""
+        }
+    ],
+    "Kartik-Krishna-15": [
+        {
+            "Title": "Shri Mahaveera Swami Moksha Kalyana",
             "Description": ""
         }
     ],
@@ -466,19 +454,11 @@
     ],
     "Margashirsha-Shukla-10": [
         {
-            "Title": "Shri Arnatha Swami Janma Kalyana",
-            "Description": ""
-        },
-        {
-            "Title": "Shri Arnatha Swami Moksha Kalyana",
+            "Title": "Shri Aranatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
     "Margashirsha-Shukla-11": [
-        {
-            "Title": "Shri Arnatha Swami Diksha Kalyana",
-            "Description": ""
-        },
         {
             "Title": "Shri Mallinatha Swami Janma Kalyana",
             "Description": ""
@@ -488,11 +468,19 @@
             "Description": ""
         },
         {
-            "Title": "Shri Mallinatha Swami Jnaana Kalyana",
-            "Description": ""
-        },
-        {
             "Title": "Shri Naminatha Swami Jnaana Kalyana",
+            "Description": ""
+        }
+    ],
+    "Margashirsha-Krishna-10": [
+        {
+            "Title": "Shri Mahaveera Swami Diksha Kalyana",
+            "Description": ""
+        }
+    ],
+    "Margashirsha-Shukla-14": [
+        {
+            "Title": "Shri Aranatha Swami Janma Kalyana",
             "Description": ""
         }
     ],
@@ -502,19 +490,7 @@
             "Description": ""
         }
     ],
-    "Paush-Shukla-6": [
-        {
-            "Title": "Shri Vimalnatha Swami Jnaana Kalyana",
-            "Description": ""
-        }
-    ],
-    "Paush-Shukla-15": [
-        {
-            "Title": "Shri Dharmanatha Swami Jnaana Kalyana",
-            "Description": ""
-        }
-    ],
-    "Paush-Shukla-9": [
+    "Paush-Shukla-10": [
         {
             "Title": "Shri Shantinatha Swami Jnaana Kalyana",
             "Description": ""
@@ -532,6 +508,18 @@
             "Description": ""
         }
     ],
+    "Paush-Shukla-15": [
+        {
+            "Title": "Shri Dharmanatha Swami Jnaana Kalyana",
+            "Description": ""
+        }
+    ],
+    "Paush-Krishna-2": [
+        {
+            "Title": "Shri Mallinatha Swami Jnaana Kalyana",
+            "Description": ""
+        }
+    ],
     "Paush-Krishna-11": [
         {
             "Title": "Shri Chandraprabhu Swami Janma Kalyana",
@@ -543,13 +531,11 @@
         },
         {
             "Title": "Shri Parshwanatha Swami Janma Kalyana",
-            "Description": "http://hombujapadmavati.org/articles/lord-parshwanath/"
-        }
-    ],
-    "Paush-Krishna-12": [
+            "Description": ""
+        },
         {
             "Title": "Shri Parshwanatha Swami Diksha Kalyana",
-            "Description": "http://hombujapadmavati.org/articles/lord-parshwanath/"
+            "Description": ""
         }
     ],
     "Paush-Krishna-14": [
@@ -564,19 +550,19 @@
             "Description": ""
         }
     ],
-    "Magha-Shukla-3": [
+    "Magha-Shukla-4": [
         {
-            "Title": "Shri Vimalnatha Swami Janma Kalyana",
+            "Title": "Shri Vimalanatha Swami Janma Kalyana",
             "Description": ""
         },
         {
-            "Title": "Shri Dharmanatha Swami Janma Kalyana",
+            "Title": "Shri Vimalanatha Swami Diksha Kalyana",
             "Description": ""
         }
     ],
-    "Magha-Shukla-4": [
+    "Magha-Shukla-6": [
         {
-            "Title": "Shri Vimalnatha Swami Diksha Kalyana",
+            "Title": "Shri Vimalanatha Swami Jnaana Kalyana",
             "Description": ""
         }
     ],
@@ -599,6 +585,12 @@
         },
         {
             "Title": "Shri Abhinandana Swami Diksha Kalyana",
+            "Description": ""
+        }
+    ],
+    "Magha-Shukla-13": [
+        {
+            "Title": "Shri Dharmanatha Swami Janma Kalyana",
             "Description": ""
         },
         {
@@ -644,15 +636,9 @@
             "Description": ""
         }
     ],
-    "Phalguna-Shukla-2": [
+    "Phalguna-Shukla-5": [
         {
-            "Title": "Shri Arnatha Swami Garbha Kalyana",
-            "Description": ""
-        }
-    ],
-    "Phalguna-Shukla-4": [
-        {
-            "Title": "Shri Mallinatha Swami Garbha Kalyana",
+            "Title": "Shri Mallinatha Swami Moksha Kalyana",
             "Description": ""
         }
     ],
@@ -672,9 +658,9 @@
             "Description": ""
         }
     ],
-    "Phalguna-Shukla-12": [
+    "Phalguna-Krishna-3": [
         {
-            "Title": "Shri Mallinatha Swami Moksha Kalyana",
+            "Title": "Shri Aranatha Swami Garbha Kalyana",
             "Description": ""
         }
     ],
