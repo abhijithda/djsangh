@@ -304,11 +304,11 @@
     "/classes": [
         [
             {
-                "text": "Sunday at Temple for Adults",
+                "text": "Sunday at Temple",
                 "callback_data": "sunday_swadhya_at_temple"
             },
             {
-                "text": "2^nd^ & 4^th^ Sunday at Temple for Youth/Teen",
+                "text": "Youths/Teens - 2nd & 4th Sunday at Temple",
                 "callback_data": "2nd_4th_sunday_at_temple"
             }
         ],

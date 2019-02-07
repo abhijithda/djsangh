@@ -1,8 +1,16 @@
 # DJ Sangh
 
-The json data is used by [DJSanghBot](http://t.me/DJSanghBot).
+The data here is used by [DJSanghBot](http://t.me/DJSanghBot) to provide answers in the DJ Sangh group.
 
-## Commands
+## Bot Description
+
+Jai Jinendra
+
+I can help you find some of the answers related to DJSangh.
+
+You can ask me by typing these below commands.
+
+## Bot Commands
 
 DJSanghBot supports the following commands:
 
@@ -14,5 +22,9 @@ improvebot - join the BotDev group to help improve it's abilities.
 initiatives - show initiatives group members are associated with.
 jcnc - JCNC related information.
 learn - Learn about Jainism.
-tithi - show today's tithi
+tithi - show today's tithi.
 ```
+
+## Bot Data
+
+The json data is used by [DJSanghBot](http://t.me/DJSanghBot).
