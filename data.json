@@ -5,11 +5,12 @@
         "I can help you find some of the answers related to *DJSangh*.",
         "",
         "You can control me by sending these commands:",
-        "  /donate - send general donation to DJ Sangh.",
         "  /classes - show swadhay classes.",
+        "  /donate - send general donation to DJ Sangh.",
         "  /events - show upcoming events.",
         "  /initiatives - show initiatives group members are associated with.",
         "  /improvebot - join the BotDev group to help improve it's abilities.",
+        "  /jcnc - JCNC related information.",
         "  /learn - Learn about Jainism.",
         "  /tithi - show today's tithi"
     ],
@@ -122,6 +123,25 @@
                 "callback_data": "religious"
             }
         ]
+    ],
+    "/jcnc": [
+        [
+            {
+                "text": "JCNC Temple timings",
+                "callback_data": "jcnc_timings"
+            },
+            {
+                "text": "DJ Sangh group",
+                "callback_data": "djsangh_group"
+            }
+        ]
+    ],
+    "jcnc_timings":[
+        "http://www.jcnc.org/contact-us/temple-hours-puja-times"
+    ],
+    "djsangh_group": [
+        "Community for followers of Digambar Jains in Northern California.",
+        "Here's the telegram app group link: https://t.me/joinchat/IVUCzUU01BGwgeJT4k7Ixw"
     ],
     "/learn": [
         [
@@ -284,9 +304,15 @@
     "/classes": [
         [
             {
-                "text": "Sunday at Temple",
+                "text": "Sunday at Temple for Adults",
                 "callback_data": "sunday_swadhya_at_temple"
             },
+            {
+                "text": "2^nd^ & 4^th^ Sunday at Temple for Youth/Teen",
+                "callback_data": "2nd_4th_sunday_at_temple"
+            }
+        ],
+        [
             {
                 "text": "Sunday online",
                 "callback_data": "sunday_swadhya_online"
@@ -318,6 +344,16 @@
         "*Timings*: 10:15am.",
         "",
         "*Contact*: Parag ji or Ruchi ji"
+    ],
+    "2nd_4th_sunday_at_temple": [
+        "*Digambar Dharama Class on 2nd and 4th Sundays*",
+        "",
+        "Digambar Tradition class for youth / teens",
+        "",
+        "*Place*: Meditation Room 1st floor",
+        "*Timings*: 10:15 AM to 11:15 AM.",
+        "*Day*: 2nd and 4th Sunday of the month (Feb10, Feb24, Mar10, Mar24...)",
+        "*Contact*: Ashok Sethi ji"
     ],
     "wednesday_at_temple": [
         "*Wednesday Cha-daala Swadhya Class at Temple*",
