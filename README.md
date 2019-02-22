@@ -1,5 +1,7 @@
 # DJ Sangh
 
+[![Build Status](https://travis-ci.org/abhijithda/djsangh.svg?branch=master)](https://travis-ci.org/abhijithda/djsangh)
+
 The data here is used by [DJSanghBot](http://t.me/DJSanghBot) to provide answers in the DJ Sangh group.
 
 ## Bot Description
