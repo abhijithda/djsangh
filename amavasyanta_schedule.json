@@ -1,0 +1,30 @@
+{
+    "Notes": [
+        {
+            "Info about Krishna & Shukla paksha order in a month": "https://www.cs.colostate.edu/~malaiya/calendar.html",
+            "Panchanga names are based on": "http://panchangam.org/ & migrating to https://www.drikpanchang.com",
+            "Purnimanta and Amanta followers by state": "https://www.drikpanchang.com/faq/faq-ans8.html"
+        }
+    ],
+    "*-*-8": [
+        {
+            "Title": "Ashtami",
+            "Description": ""
+        }
+    ],
+    "*-*-14": [
+        {
+            "Title": "Chaturdashi",
+            "Description": ""
+        }
+    ],
+    "Chaitra-Krishna-1": [
+        {
+            "Title": "Yugadi",
+            "Description": "Happy yugadi. Marks the beginning of a new lunar calender year."
+        }
+    ],
+   "last": [
+        {}
+    ]
+}
