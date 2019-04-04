@@ -1,0 +1,30 @@
+{
+    "Notes": [
+        {
+            "Info about Krishna & Shukla paksha order in a month": "https://www.cs.colostate.edu/~malaiya/calendar.html",
+            "Panchanga names are based on": "http://panchangam.org/ & migrating to https://www.drikpanchang.com",
+            "Purnimanta and Amanta followers by state": "https://www.drikpanchang.com/faq/faq-ans8.html"
+        }
+    ],
+    "*-*-8": [
+        {
+            "Title": "Ashtami",
+            "Description": ""
+        }
+    ],
+    "*-*-14": [
+        {
+            "Title": "Chaturdashi",
+            "Description": ""
+        }
+    ],
+    "Chaitra-Shukla-1": [
+        {
+            "Title": "Yugadi",
+            "Description": "Yugadi marks the first new moon day of a new lunar calender year. i.e., Chaitra masa Shukla paksha Pratipada. https://madhurabhavageethegalu.blogspot.com/2012/06/yuga-yugadi-kaledaru.html"
+        }
+    ],
+   "last": [
+        {}
+    ]
+}
