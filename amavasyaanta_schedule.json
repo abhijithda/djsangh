@@ -94,6 +94,42 @@
             ]
         }
     ],
+    "Ashadha-Shukla-8": [
+        {
+            "Title": "Ashtanika parva",
+            "Description": "First day of Ashtanika."
+        }
+    ],
+    "Ashadha-Shukla-15": [
+        {
+            "Title": "Ashtanika parva",
+            "Description": "Last day of Ashtanika."
+        }
+    ],
+    "Kartik-Shukla-8": [
+        {
+            "Title": "Ashtanika parva",
+            "Description": "First day of Ashtanika."
+        }
+    ],
+    "Kartik-Shukla-15": [
+        {
+            "Title": "Ashtanika parva",
+            "Description": "Last day of Ashtanika."
+        }
+    ],
+    "Phalguna-Shukla-8": [
+        {
+            "Title": "Ashtanika parva",
+            "Description": "First day of Ashtanika."
+        }
+    ],
+    "Phalguna-Shukla-15": [
+        {
+            "Title": "Ashtanika parva",
+            "Description": "Last day of Ashtanika."
+        }
+    ],
     "last": [
         {}
     ]
