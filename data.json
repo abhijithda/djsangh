@@ -37,7 +37,7 @@
         "[4 Types of Daan: Aahar, Aaushadh, Shastra, Aavas](https://youtu.be/SnSCwQu4o4Y?t=22m02s)",
         "[7 Places for Daan: Muni ke liye (ex: aahar, aushad, shastra, upakaran), Aaryika ke liye, Ilak/Kshullak ke liye, Kshullaki ke liye, Jeernodhaar (8 times compared to new temple), Pratishta (vedi, mandir, pratima ki pratishta), Tirtha yatra](https://youtu.be/mEHyP_KxrVU?t=26m27s)"
     ],
-    "/events": [
+    "/oldcmd-events": [
         {
             "text": "Religious",
             "callback_data": "religious"
