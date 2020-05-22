@@ -1,0 +1,60 @@
+[
+    {
+        "question": "Dharmanatha Swami attained moksha at?",
+        "options": [
+            "Bijoliya",
+            "Kailasa giri",
+            "Mangi Tungi",
+            "Pawa giri",
+            "Sammed Shikar ji",
+            "Siddhvar Koot",
+            "Taranga"
+        ],
+        "correctOption": 4
+    },
+    {
+        "question": "Dharmanatha swami was a kamadeva just like Shantinatha swami",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Dharmanatha swami was a chakravarti just like Bharata",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Dharmanatha Swami was _ _ _ _ thirthankara?",
+        "options": [
+            "1",
+            "9",
+            "15",
+            "16",
+            "17",
+            "25",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Dharmanatha Swami symbol is _ _ _ _?",
+        "options": [
+            "Bull",
+            "Deer",
+            "Fish",
+            "Kalasa",
+            "Moon",
+            "Snake",
+            "Sun",
+            "Swastika",
+            "Tortoise",
+            "Vajrayudha"
+        ],
+        "correctOption": 9
+    }
+]
