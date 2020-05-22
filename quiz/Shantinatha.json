@@ -1,0 +1,116 @@
+[
+    {
+        "question": "Shantinatha Swami attained moksha at _ _ _ _ _",
+        "options": [
+            "Ayodhya",
+            "Bijoliya",
+            "Hastinapur",
+            "Kailasa giri",
+            "Mangi Tungi",
+            "Mukta giri",
+            "Pavapuri",
+            "Sammed Shikar ji",
+            "Siddhvar Koot",
+            "Taranga"
+        ],
+        "correctOption": 7
+    },
+    {
+        "question": "Shantinatha swami was a kamadeva just like Bahubali",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 0
+    },
+    {
+        "question": "Shantinatha swami was a chakravarti just like Bharata",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 0
+    },
+    {
+        "question": "Shantinatha swami was _ _ _ _ thirthankara?",
+        "options": [
+            "1",
+            "5",
+            "9",
+            "12",
+            "15",
+            "16",
+            "17",
+            "25",
+            "None"
+        ],
+        "correctOption": 5
+    },
+    {
+        "question": "Shantinatha swami symbol is _ _ _ _?",
+        "options": [
+            "Bull",
+            "Deer",
+            "Fish",
+            "Kalasa",
+            "Lake",
+            "Moon",
+            "Sun",
+            "Swastika",
+            "Tortoise",
+            "Tree"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Shantyashtaka stotra was componsed by acharya _ _ _ _?",
+        "options": [
+            "Akalanka swami",
+            "Butabali ji",
+            "Chandprabha sagar",
+            "Manatunga swami",
+            "Pujyapada swami",
+            "Pushpadant sagar ji",
+            "Samantabadra swami",
+            "Vardhaman sagar ji",
+            "Vidyanand ji",
+            "Vishuddha sagar"
+        ],
+        "correctOption": 4
+    },
+    {
+        "question": "_ _ _ _ acharya got their eye sight back after reciting shantyastka stotra?",
+        "options": [
+            "Akalanka swami",
+            "Butabali ji",
+            "Chandprabha sagar",
+            "Manatunga swami",
+            "Pushpadant sagar ji",
+            "Samantabadra swami",
+            "Vardhaman sagar ji",
+            "Vidyanand ji",
+            "Vishuddha sagar",
+            "None"
+        ],
+        "correctOption": 6,
+        "explanation": "Listen from 7:30 to 10mins http://files.jain.us.com/shrish/1.Pravachan/Kshullak%20Shree%20DhyanSagar%20Maharaj%20Ji/shantyastak%20ranchi/shantyastak%20ranchi%2001%2017-12-2013.MP3"
+    },
+    {
+        "question": "Acharya Pujyapada swami had visited vidheha kshetra",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 0,
+        "explanation": "Listen at 22:30m http://files.jain.us.com/shrish/1.Pravachan/Kshullak%20Shree%20DhyanSagar%20Maharaj%20Ji/shantyastak%20ranchi/shantyastak%20ranchi%2002%2018-12-2013.MP3"
+    },
+    {
+        "question": "Acharya Pujyapada swami had aushadhi (medicine) vruddhi",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 0,
+        "explanation": "Listen at 22:30m http://files.jain.us.com/shrish/1.Pravachan/Kshullak%20Shree%20DhyanSagar%20Maharaj%20Ji/shantyastak%20ranchi/shantyastak%20ranchi%2002%2018-12-2013.MP3"
+    }
+]
