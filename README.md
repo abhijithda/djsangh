@@ -24,6 +24,7 @@ improvebot - join the BotDev group to help improve it's abilities.
 initiatives - show initiatives group members are associated with.
 jcnc - JCNC related information.
 learn - Learn about Jainism.
+quiz - `quiz <link> [secs]` sends quiz from URL with secs delay bn questions.
 tithi - show today's tithi.
 ```
 

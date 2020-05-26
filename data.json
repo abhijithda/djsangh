@@ -12,6 +12,7 @@
         "  /improvebot - join the BotDev group to help improve it's abilities.",
         "  /jcnc - JCNC related information.",
         "  /learn - Learn about Jainism.",
+        "  /quiz - `quiz <link> [secs]` sends quiz from specified link with secs delay bn questions.",
         "  /tithi - show today's tithi"
     ],
     "/welcome": [
