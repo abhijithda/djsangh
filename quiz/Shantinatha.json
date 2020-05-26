@@ -63,7 +63,7 @@
         "correctOption": 1
     },
     {
-        "question": "[Shantyashtaka stotra](https://youtu.be/YZWBv8w3y8Q) was componsed by acharya _ _ _ _?",
+        "question": "Shantyashtaka stotra (https://youtu.be/YZWBv8w3y8Q) was componsed by acharya _ _ _ _?",
         "options": [
             "Akalanka swami",
             "Butabali ji",
@@ -76,7 +76,8 @@
             "Vidyanand ji",
             "Vishuddha sagar"
         ],
-        "correctOption": 4
+        "correctOption": 4,
+        "explanation": "https://youtu.be/YZWBv8w3y8Q"
     },
     {
         "question": "Acharya _ _ _ _ got their eye sight back after reciting shantyastka stotra?",
