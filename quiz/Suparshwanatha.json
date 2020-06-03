@@ -1,0 +1,89 @@
+[
+    {
+        "question": "Suparshwanatha swami was _ _ _ _ thirthankara?",
+        "options": [
+            "1",
+            "5",
+            "7",
+            "9",
+            "12",
+            "15",
+            "16",
+            "17",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Suparshwanatha swami symbol is _ _ _ _?",
+        "options": [
+            "Bull",
+            "Deer",
+            "Fish",
+            "Kalasa",
+            "Lake",
+            "Moon",
+            "Sun",
+            "Snake",
+            "Swastika",
+            "Tree"
+        ],
+        "correctOption": 8
+    },
+    {
+        "question": "Suparshwanatha Swami attained moksha at _ _ _ _ _",
+        "options": [
+            "Ayodhya",
+            "Bijoliya",
+            "Hastinapur",
+            "Kailasa giri",
+            "Mangi Tungi",
+            "Mukta giri",
+            "Pavapuri",
+            "Sammed Shikar ji",
+            "Siddhvar Koot",
+            "Taranga"
+        ],
+        "correctOption": 7
+    },
+    {
+        "question": "The name of koota where Suparshwanatha Swami attained moksha is _ _ _ _ _",
+        "options": [
+            "Aananda koota",
+            "Avichala koota",
+            "Kundaprabha koota",
+            "Mitradhara koota",
+            "Naataka koota",
+            "Prabhasa koota",
+            "Siddhavara koota",
+            "Suvarnabadra koota",
+            "Shikar ji koota",
+            "Urjayantagiri koota"
+        ],
+        "correctOption": 5
+    },
+    {
+        "question": "Suparshwanatha swami was a chakravarti just like Bharata",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Suparshwanatha swami was a kamadeva just like Bahubali",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Suparshwanatha swami is a upasarga kevali just like Parshwanatha swami",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correctOption": 0
+    }
+]

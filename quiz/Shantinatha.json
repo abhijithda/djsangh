@@ -1,5 +1,36 @@
 [
     {
+        "question": "Shantinatha swami was _ _ _ _ thirthankara?",
+        "options": [
+            "1",
+            "5",
+            "9",
+            "12",
+            "15",
+            "16",
+            "17",
+            "25",
+            "None"
+        ],
+        "correctOption": 5
+    },
+    {
+        "question": "Shantinatha swami symbol is _ _ _ _?",
+        "options": [
+            "Bull",
+            "Deer",
+            "Fish",
+            "Kalasa",
+            "Lake",
+            "Moon",
+            "Sun",
+            "Swastika",
+            "Tortoise",
+            "Tree"
+        ],
+        "correctOption": 1
+    },
+    {
         "question": "Shantinatha Swami attained moksha at _ _ _ _ _",
         "options": [
             "Ayodhya",
@@ -30,37 +61,6 @@
             "False"
         ],
         "correctOption": 0
-    },
-    {
-        "question": "Shantinatha swami was _ _ _ _ thirthankara?",
-        "options": [
-            "1",
-            "5",
-            "9",
-            "12",
-            "15",
-            "16",
-            "17",
-            "25",
-            "None"
-        ],
-        "correctOption": 5
-    },
-    {
-        "question": "Shantinatha swami symbol is _ _ _ _?",
-        "options": [
-            "Bull",
-            "Deer",
-            "Fish",
-            "Kalasa",
-            "Lake",
-            "Moon",
-            "Sun",
-            "Swastika",
-            "Tortoise",
-            "Tree"
-        ],
-        "correctOption": 1
     },
     {
         "question": "Shantyashtaka stotra (https://youtu.be/YZWBv8w3y8Q) was componsed by acharya _ _ _ _?",
