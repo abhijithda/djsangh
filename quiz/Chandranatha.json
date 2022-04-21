@@ -88,7 +88,8 @@
         "correctOption": 1
     },
     {
-        "question": "Identify location of this Chandraprabha swami https://live.staticflickr.com/7352/9319915220_814f922b4a_o_d.jpg",
+        "description": "1. [Chandraprabha swami](https://live.staticflickr.com/7352/9319915220_814f922b4a_o_d.jpg)",
+        "question": "Chandraprabha swami - Identify location ",
         "options": [
             "Lakkundi",
             "Mandaragiri, Tumakuru",
