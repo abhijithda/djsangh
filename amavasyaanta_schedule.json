@@ -52,6 +52,12 @@
             "Description": "Reference mahapurana: https://youtu.be/CJ7Z7LXnx3U?t=700"
         }
     ],
+    "Vaishaka-Shukla-3": [
+        {
+            "Title": "Akshaya Tritiya - Shri Aadinatha Swami Aahara by Shreyanasa Kumar",
+            "Description": "Reference mahapurana: "
+        }
+    ],
     "Jyeshtha-Shukla-5": [
         {
             "Title": "Shrutha Panchami",
@@ -96,7 +102,7 @@
                 "",
                 "[Bhakti geete](https://youtu.be/a8NQnazOEso)",
                 "[Story in English](http://www.sdja.co.uk/resources/Education/digamber_lineage_2.html)",
-                "[Animated Video](https://youtu.be/ywDNKqIQwow)" 
+                "[Animated Video](https://youtu.be/ywDNKqIQwow)"
             ]
         }
     ],
@@ -104,13 +110,12 @@
         {
             "Title": "Shri Aadinatha Swamy Garbha Kalyana",
             "Description": [
-                "Vrushabhanatha came into Marudevi's garbha 84 lakhs 3 years 8 months 15 days",
+                "Vrushabhanatha came into Marudevi's garbha 84 lakhs purva 3 years 8 months 15 days",
                 "before the end of the 3rd era/yuga on ashadha shukla 2nd Uttarashada nakshatra",
                 "Reference: [Mahapurana](https://youtu.be/CJ7Z7LXnx3U?t=415).",
                 "",
-                "Based on number of days left, it confirms that calendar month starts with shukla paksha.",
-                "I.e., it confirms that jain calendar is based on Amavasyanta.",
-                "Also, the new era/yuga starts on chaitra masa shukla paksha 1st - yugadi is celebrated on same day."
+                "Based on number of days left, it confirms that calendar month ends with shukla paksha.",
+                "I.e., it confirms that jain calendar is based on Purniamaaanta."
             ]
         }
     ],
@@ -154,10 +159,20 @@
             "Description": "Last day of Ashtanika."
         }
     ],
+    "Pausha-Shukla-11": [
+        {
+            "Title": "Shri Ajitanatha Swamy Jnaana Kalyana",
+            "Description": "Mahapurana Reference: https://youtu.be/5KG2mb8ee-w?t=68"
+        }
+    ],
     "Magha-Krishna-14": [
         {
             "Title": "Shri Aadinatha Swamy Moksha Kalyana",
-            "Description": "Jina ratri: the night of first thirthankar moksha. As per kannada tithi/amavasyanta calendar. ![Aadinatha swami](./imgs/Pancha_Kalyanaka_Tithis.jpg)"
+            "Description": [
+                "Jina ratri: the night of first thirthankar moksha. As per amavasyanta calendar. ![Aadinatha swami](./imgs/Pancha_Kalyanaka_Tithis.jpg)",
+                "",
+                "Mahapurana Reference: https://youtu.be/kZllIb5IWPs?t=538"
+            ]
         }
     ],
     "Phalguna-Shukla-8": [
