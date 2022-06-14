@@ -31,7 +31,12 @@
         },
         {
             "Title": "Shravana Belagola Bahubali Swami ka pratistapana",
-            "Description": "https://youtu.be/Fz4B2oHXZIM?t=915"
+            "Description": [
+                "https://youtu.be/Fz4B2oHXZIM?t=915",
+                "",
+                "Bahubali Swami pratistapana happened on Chaitra Shukla panchami tithi on Mar 13, 981.",
+                "Refer following video at 58m:10s https://youtu.be/tKyWgpZTIcY?t=3405"
+            ]
         }
     ],
     "Chaitra-Shukla-13": [
